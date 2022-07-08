@@ -2,6 +2,13 @@ h1 {
     font-family: 'Courier New', Courier, monospace;
     font-size: 50px;
     text-align:center;
+    margin: 0px 350px 0px 350px;
+    padding: 10px;
+    border-radius: 7%;
+    block-size: fit-content;
+    color:black;
+    background-color: #F5C5AD;
+    opacity: 80%;
 }
 
 p {
@@ -13,10 +20,15 @@ body {
     background-color:bisque;
 }
 
-.header {
-    background-color: #F5C5AD;
-    margin: 0px 350px 0px 350px;
-    padding: 10px;
-    border-radius: 7%;
-    block-size: fit-content;
+.title { 
+    border: medium solid white;
+    width: fit-content;
+    padding: 3px;
+    
 }
+
+
+ul {
+    font-size: 20px;
+}
+
