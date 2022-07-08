@@ -12,3 +12,11 @@ p {
 body {
     background-color:bisque;
 }
+
+.header {
+    background-color: #F5C5AD;
+    margin: 0px 350px 0px 350px;
+    padding: 10px;
+    border-radius: 7%;
+    block-size: fit-content;
+}
